@@ -1,0 +1,12 @@
+-rpa Upath studio a tool for building automation processes
+_ui path robot executes the processes
+UIpath orchestrators monitors the robots
+-robots working with humans attended robots, robots working by themselves are unttended robots
+    As an RPA Developer, you'll use the Studio family (Studio and StudioX) to build reliable automation processes based on business requirements. 
+    Studio, Robots, and Orchestrator communicate with one another in different phases.
+    Automation projects built in Studio are published locally or through Orchestrator. 
+    Published automation projects are called packages. 
+    Attended robots work on the same machine as human users. 
+    In attended scenarios, processes are typically started by human users from UiPath Assistant. 
+    Unattended robots are deployed on separate machines, which aren't used by human users (often virtual machines). 
+    In unattended scenarios, process execution is started, scheduled, and managed from Orchestrator.
