@@ -10,3 +10,17 @@ UIpath orchestrators monitors the robots
     In attended scenarios, processes are typically started by human users from UiPath Assistant. 
     Unattended robots are deployed on separate machines, which aren't used by human users (often virtual machines). 
     In unattended scenarios, process execution is started, scheduled, and managed from Orchestrator.
+
+
+key concepts UI automation
+
+    
+   The key concepts of UI Automation in UiPath are: UI Automation Activities, Activity Properties, Targeting Methods, Input and Output Methods, Recorders, 
+   The Object Repository and Computer vision.
+   -UI Automation Activities - Activities can be containers, input activities, output activities or synchronization activities.  
+   -Activity Properties - Properties determine how the Robot performs an action. They can be found in the Properties panel.
+    -Targeting Methods - They provide several ways to identify the UI element the Robot will be interacting with.
+    -Input and Output Methods - Define the type of technology used in interacting with UI elements. Output methods are used to extract data (in general, as text) from a UI element. The technology used by Input methods is different than the one used in Ouput methods.
+    -Recorders and Wizards-  This functionality enables you to easily capture a user’s actions on the screen and translates them into sequences.
+    -The Object Repository - The Object Repository ensures the management, reusability, and reliability of UI elements by capturing them as objects in a repository, sharable across projects.
+    -AI Computer Vision - Is able to identify UI elements such as buttons, text input fields, or check boxes without the use of selectors.
